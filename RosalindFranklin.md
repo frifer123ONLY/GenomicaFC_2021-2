@@ -1,6 +1,5 @@
 # Rosalind Franklin
-** Práctica 01 **
-![alt text](Rosalind-Franklin.jpg)
+<a href="url"><img src="Rosalind-Franklin.jpg" align="center" height="700" width="600" ></a>
 - Nació en Londres, el 25 de julio de 1920.
 - Murió en Londres, el 16 de abril de 1958.
 Rosalind Franklin nació en el seno de una familia judía de buena posición económica. Desde edad muy temprana, mostró una excelente aptitud y actitud para estudiar, destacando en diversas materias, entre ellas, las ciencias.
