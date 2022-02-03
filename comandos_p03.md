@@ -3,6 +3,7 @@
 
 ## Parte I. 
 *Respuesta 1*: Creación de directorios y archivos 
+.pwd 
 pwd--Nos permite saber donde estamos
-[mkdir]-- Crea el directorio GenomicaComputacional
+mkdir-- Crea el directorio GenomicaComputacional
 
