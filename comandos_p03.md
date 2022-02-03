@@ -11,9 +11,16 @@
 <p>touch-- para hacer un archivo Comandos_p03.md.</p>
 
 ### Respuesta 2: Tipo de shell 
-<p>echo$0-- Tengo de tipo bash</p>}
+<p>echo$0-- Tengo de tipo bash</p>
 
 ### Respuesta 3: Crear y mover directorios
 <p> cd-- Flopez_p03 </p>
 <p> mkdir-- data/, filtered/, raw_data/, meta/, scripts/, figures/ y archive/.</p>
+<p> mv-- filtered/data </p>
+<p> mv raw_data/data </p>
+
+### Respuesta 4: ¿A qué se debe el nombre y la organización de los directorios que acabamos de crear?
+<p> Se debe a buenas prácticas a la hora de organizar unj proyecto boinformático</p>
+
+## Parte II. 
 
