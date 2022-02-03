@@ -10,4 +10,10 @@
 <p>mkdir-- Para crear el directorio Flopez_p03.</p>
 <p>touch-- para hacer un archivo Comandos_p03.md.</p>
 
-### Respuesta 2:
+### Respuesta 2: Tipo de shell 
+<p>echo$0-- Tengo de tipo bash</p>}
+
+### Respuesta 3: Crear y mover directorios
+<p> cd-- Flopez_p03 </p>
+<p> mkdir-- data/, filtered/, raw_data/, meta/, scripts/, figures/ y archive/.</p>
+
