@@ -4,7 +4,7 @@
 ## Parte I. 
 Respuesta 1: Creación de directorios y archivos.
 
-pwd--Nos permite saber donde estamos.
+<p>pwd--Nos permite saber donde estamos.</p>
 mkdir-- Crea el directorio GenomicaComputacional.
 cd- entramos dentro del directorio creado.
 mkdir-- Para crear el directorio Flopez_p03.
